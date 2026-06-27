@@ -5,53 +5,43 @@
 <h1 align="center">I'm <a href="https://github.com/Exequiel-0">Exequiel (Señor E)</a> <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <br>
 
-<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Exequiel-0" /></p>
+<p><img align="right" height="220" width="280" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Exequiel-0" /></p>
 
 ## About me  🌟
-- 🌐 Desarrollador Frontend enfocado en crear interfaces intuitivas, rápidas y 100% optimizadas para móviles.  
-- ⚡ Combino el diseño visual premium con código limpio para maximizar la retención de usuarios.  
-- 🎯 Mi objetivo: transformar ideas y maquetas en herramientas digitales que aceleren las ventas de mis clientes.  
+- 🌐 Desarrollador Frontend enfocado en maquetar interfaces intuitivas, limpias y 100% responsivas.  
+- ⚡ Especializándome en la creación de sitios web rápidos y modernos utilizando utilidades de estilos de última generación.  
+- 🎯 Mi meta actual: Construir mis primeros proyectos reales para ayudar a negocios locales a digitalizarse.  
 
 ---
 
 ## My Skills Include
 
-<h4> Languages </h4>
+<h4> Lenguajes y Estilos </h4>
 <span>  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </span>
 
-<h4> Frameworks & Styles </h4>
+<h4> Frameworks Core </h4>
 <span>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
 
-<h4> Databases </h4>
-<span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</span>
-
-<h4> IDE & Tools </h4>
+<h4> Herramientas y Entorno </h4>
 <span>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
 </span>
 
 ---
 
-## 🌟 Featured projects
+## 🚧 Proyectos en Desarrollo (Coming Soon)
 
-- [🌐 Personal Portfolio](#) – Mi portafolio de diseño y desarrollo web de alto impacto.  
-- [📱 Homework App](#) – Una aplicación interactiva para la organización de tareas construida con React.  
-- [🎨 Landing Page](#) – Una interfaz moderna optimizada para conversión y embudos de venta.  
+Actualmente construyendo mis primeros casos de estudio para subirlos aquí:
+- [🌐 Mi Portafolio Web](#) – El código base de mi sitio web personal.  
+- [📱 Aplicación de Tareas](#) – Un organizador interactivo utilizando componentes de React.  
 
 ---
 
@@ -59,8 +49,6 @@
 - ✉️ **Email:** exequielmart2017@gmail.com  
 - 💼 **LinkedIn:** [Conéctame en LinkedIn](#)
 - 💬 **WhatsApp:** [Iniciar conversación por WhatsApp](#)
-
-🚀 **¡Estoy listo para diseñar y desarrollar la solución digital que tu negocio necesita!**  
 
 ---
 
@@ -80,6 +68,3 @@
 <br>
 
 🌟 _"Code is my canvas, and design is my art."_
-
-
-
