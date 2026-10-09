@@ -40,7 +40,7 @@
 ## 🚧 Proyectos en Desarrollo (Coming Soon)
 
 Actualmente construyendo mis primeros casos de estudio para subirlos aquí:
-- [🌐 Mi Portafolio Web](#) – El código base de mi sitio web personal.  
+- https://first-line-portfolio.vercel.app(#) – El código base de mi sitio web personal.  
 - [📱 Aplicación de Tareas](#) – Un organizador interactivo utilizando componentes de React.  
 
 ---
